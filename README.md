@@ -1,7 +1,7 @@
  Hey What's up!?
  ##
-- 🔭 I’m currently working on Front End
-- 🌱 I’m currently learning PHP and NodeJs
+- 🔭 I’m currently working as a Front-End Dev
+- 🌱 learning PHP and NodeJs
 - 📫 How to reach me: bruno.taveira.r0.382@gmail.com
 - 😄 Pronouns: he/him
  <div>
