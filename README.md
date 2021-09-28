@@ -1,6 +1,6 @@
  Hey What's up!?
  ##
-- 🔭 I’m currently working as a Front-End Dev
+- 🔭 I’m a Front-End Dev but looking foward to become a FullStack Dev
 - 🌱 learning PHP and NodeJs
 - 📫 How to reach me: bruno.taveira.r0.382@gmail.com
 - 😄 Pronouns: he/him
