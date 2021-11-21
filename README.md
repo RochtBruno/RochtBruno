@@ -4,6 +4,7 @@
 - 🌱 learning PHP and NodeJs
 - 📫 How to reach me: bruno.taveira.r0.382@gmail.com
 - 😄 Pronouns: he/him
+- 💻 I have plenty of personal projects, feel free to have a look at them.
  <div>
   <a href="https://github.com/RochtBruno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochtBruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
