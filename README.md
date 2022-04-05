@@ -1,7 +1,6 @@
  Hey What's up!?
  ##
-- 🔭 I’m a Front-End Dev but looking foward to become a FullStack Dev
-- 🌱 learning PHP and NodeJs
+- 🔭 I’m a junior Full-stack developer
 - 📫 How to reach me: bruno.taveira.r0.382@gmail.com
 - 😄 Pronouns: he/him
 - 💻 I have plenty of personal projects, feel free to have a look at them.
