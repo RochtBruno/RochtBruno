@@ -1,7 +1,8 @@
  Hey What's up!?
  ##
-- 🔭 I’m a junior Full-stack developer
+- 🔭 I’m a junior Frontend developer
 - 📫 How to reach me: bruno.taveira.r0.382@gmail.com
+- 🏅 Portfolio website: https://brunorocha-portfolio.netlify.app/
 - 😄 Pronouns: he/him
 - 💻 I have plenty of personal projects, feel free to have a look at them.
  <div>
