@@ -2,10 +2,25 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Bruno Taveira da Rocha, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá me chamo Bruno Rocha, sou formado como técnico pelo IFRJ e sempre fui ligado à tecnologia e computadores então decidi me aprofundar, me tornando desenvolvedor, sempre buscando cada vez mais aperfeiçoar meus conhecimentos. Atualmente cursando engenharia de software na 42 rio, utilizando majoritariamente a linguagem C para o desenvolvimento de software e estudando desenvolvimento web na tripleten.
+
+Já trabalhei como desenvolvedor full stack na 42 rio e como desenvolvedor freelancer full stack em plataformas internacionais, como fiverr e upwork.
+
+Em meus projetos desenvolvi habilidades em desenvolvimento web, inteligência artifical, desenvolvimento back end, comunicação efetiva, organização, trabalho em equipe.
+
+Minha abordagem centrada no desenvolvedor e minha paixão por aprender continuamente me impulsionam a buscar novas oportunidades de crescimento e impacto.
+
 
 ---
+## 💬 Vamos conversar!
 
+Se você acredita que minhas habilidades podem agregar ao seu projeto ou à sua empresa, entre em contato!  
+- [Me chame no LinkedIn](https://www.linkedin.com/in/bru-rocha/)  
+- Ou, se preferir, me mande uma mensagem direto no WhatsApp - (24) 99218-1476
+
+Vai ser um prazer trocar ideias e explorar oportunidades juntos!
+
+---
 ### 🤖 Linguagens e Tecnologias
  <img  
     align="left" 
@@ -57,6 +72,35 @@ Me chamo Bruno Taveira da Rocha, tenho 21 anos e sou natural do Rio Grande do Su
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
+
+<img 
+  align="left" 
+  alt="Mongodb"
+  title="Mongodb" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+ />
+ 
+ <img 
+  align="left" 
+  alt="Postgresql"
+  title="Postgresql" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
+  />
+                   
+<img 
+  align="left" 
+  alt="Nodejs"
+  title="Nodejs" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+ />
+          
 <img 
     align="left" 
     alt="React"
@@ -103,7 +147,7 @@ Me chamo Bruno Taveira da Rocha, tenho 21 anos e sou natural do Rio Grande do Su
     title="Docker"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
    />
           
 
